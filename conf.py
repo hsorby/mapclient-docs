@@ -228,7 +228,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'MAPClient', u'MAP Client Documentation',
-   u'Hugh Sorby', 'MAPClient', 'One line description of project.',
+   u'Hugh Sorby', 'MAPClient', 'Workflow management application.',
    'Miscellaneous'),
 ]
 
