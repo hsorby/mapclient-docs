@@ -10,7 +10,7 @@ For acquiring access to http://autotest.bioeng.auckland.ac.nz/mapclient-buildbot
 
 #. Write an email, including your preferred username, requesting access to Buildbot to::
 
-     h.sorby@aucklanc.ac.nz
+     h.sorby@auckland.ac.nz
 
 #. When you receive confirmation of your username you will need to provide a 'passwd' entry with your username and password, issue the following command with your details to generate the required output::
 
